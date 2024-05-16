@@ -7,7 +7,7 @@
 </head>
 <body>
     <div class="container">
-        <img src=""C:\Users\gokul\Downloads\AI in Automobiles.jpg"" alt=""C:\Users\gokul\Downloads\AI in Automobiles.jpg"">
+        <img src="AI in Automobiles.jpg" alt="AI in Automobiles.jpg">
         <h1>Welcome to my Website</h1>
         <p> Artificial Intelligence (AI) plays a crucial role in the automotive industry, transforming vehicles and driving experiences. Here are some key insights:
 
